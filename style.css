@@ -1,0 +1,38 @@
+
+h3 
+{
+font-size: 30px !important ;
+font-family: monospace;
+border-color:cyan ;
+border-width: 20px;
+border-style: double;
+}
+
+h4
+{
+    font-size: 15px !important;
+    border-width: 20px;
+    border-color: green;
+    border-style: dotted;
+}
+
+#time
+{
+float:right;
+margin-right: 10px;
+}
+
+#score
+{
+float:left;
+margin-left: 10px;
+}
+
+body{
+    border-width: 20px;
+    border-color:palevioletred;
+    border-style: dotted;
+    font-family: monospace;
+    background-color: papayawhip;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5fbd1be4ad59290ec7b164db/1612807599163-53S0B1PQSZPFJYV3Z9ED/joy-gif-3.gif");
+}
